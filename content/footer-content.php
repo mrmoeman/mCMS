@@ -1,0 +1,1 @@
+<p>© 2015 <a href="www.dartfordskips.com">www.dartfordskips.com</a>. All Rights Reserved.</p>
